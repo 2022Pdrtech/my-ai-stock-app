@@ -1,8 +1,7 @@
-import streamlit as st
-import yfinance as yf
-import pandas as pd
-import plotly.graph_objects as go
-from datetime import datetime
+streamlit
+yfinance
+pandas
+
 
 # Page Setup
 st.set_page_config(page_title="AI Stock Advisor", layout="wide")
