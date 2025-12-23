@@ -1,5 +1,6 @@
 import streamlit as st
 import yfinance as yf
+import plotly
 import pandas as pd
 
 st.title("🚀 My AI Stock Advisor")
